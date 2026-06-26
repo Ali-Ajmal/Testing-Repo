@@ -1,2 +1,6 @@
 - Learn Git and GitHub
 - Learn TS
+- Learn React
+- Learn Redux
+- Learn Next 
+- Practice Projects
