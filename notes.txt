@@ -1,0 +1,4 @@
+Front end technologies 
+- React JS 
+- Redux JS
+- Next JS
