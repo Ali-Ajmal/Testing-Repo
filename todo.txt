@@ -4,3 +4,4 @@
 - Learn Redux
 - Learn Next 
 - Practice Projects
+- Upload them on GitHub
