@@ -4,6 +4,3 @@ My Third Project
 My Fourth Project from fourth_branch
 <<<<<<< Updated upstream
 My Another Project from fourth_branch
-=======
-My Another Project from fourth_branch
->>>>>>> Stashed changes
